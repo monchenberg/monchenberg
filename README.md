@@ -1,5 +1,6 @@
+![](https://media.giphy.com/media/ifxLK48cnyDDi/giphy.gif)
 ## Hey Fellows, I'm Carlos Elizarraras
-Computer Engineering student at [UAM-A](https://www.uam.mx/)
+*Computer Engineering student at [UAM-A](https://www.uam.mx/)*
 
 
 
